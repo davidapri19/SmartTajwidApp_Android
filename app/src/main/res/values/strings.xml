@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartTajwid</string>
+    <string name="tajwid">Ilmu Tajwid</string>
+    <string name="doa">Doa Sehari - Hari</string>
+    <string name="quiz">Quiz</string>
+    <string name="daftar">Daftar</string>
+    <string name="tenan_iki_gawenanku">RULA Nusantara</string>
+    <string name="score_kamu">Skor Kamu :</string>
+    <string name="selamat">Selamat !!</string>
+</resources>
